@@ -4,3 +4,7 @@ git commit -m "coucou"
 
 git push
 git pull 
+
+git remote
+git log
+git status
